@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     
-        // delaraÁao de vari·veis.
+        // delara√ßao de vari√°veis.
 		cadeia cor
 		inteiro preco
 
@@ -10,18 +10,18 @@ programa {
 		leia(cor)
 
         //calculando
-        se (cor=="Rosa"){
-        	preco=5.00
+        se (cor=="verde"){
+        	preco=10.00
         }
 
-        se(cor=="preto"){
-        preco=10.00
+        se(cor=="azul"){
+        preco=20.00
         }
-        se(cor=="Roxo"){
+        se(cor=="vermelho"){
         preco=40.00
         }
-        se(cor=="cinza"){
-        preco=50.00
+        se(cor=="amarelo"){
+        preco=30.00
         }
 
         //resultado
